@@ -1,4 +1,4 @@
-# Netflix Clone
+ # Netflix Clone
 
 🍿 Welcome to the Netflix Clone! 🎬
 
@@ -39,4 +39,4 @@ Check out the live demo [here](https://shitalilapate.github.io/netflix-clone/).
 
 Thank you for exploring the Netflix Clone! If you have any feedback or suggestions, feel free to reach out.
 
-Happy streaming! 🍿🎉
+\ 
