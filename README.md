@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone!!!!
 
 Welcome to the **Netflix Clone** — a sleek and responsive web application designed to replicate the look and feel of the Netflix streaming platform using only **HTML**, **CSS**, and **JavaScript**.
 
